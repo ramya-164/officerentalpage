@@ -1,2 +1,1324 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Office Space Rentals | Shswift</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #ff6600;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    .rental-card {
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      padding: 40px;
+      margin-bottom: 30px;
+    }
+
+    .rental-card h2 {
+      margin-top: 0;
+      color: #222;
+    }
+
+    .price {
+      font-size: 24px;
+      color: #ff6600;
+      margin: 10px 0;
+    }
+
+    .requirements {
+      margin-top: 15px;
+      padding-left: 20px;
+    }
+
+    .requirements li {
+      margin-bottom: 8px;
+    }
+
+    .inquire-btn {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #ff6600;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .inquire-btn:hover {
+      background-color: #e65c00;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Shswift Office Space Rentals</h1>
+    <p>Flexible, affordable, and ready-to-move-in spaces</p>
+  </header>
+
+  <div class="container">
+    <div class="rental-card"> 
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+       
+    </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+      <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+      <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+      <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+      <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+  <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+  <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+    <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+   <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+   <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div> <div class="container">
+    <div class="rental-card">
+      <h2>Premium Office Space</h2>
+       <img src="C:\Users\yeshwanth\Downloads\office" width="40%" height="50%" style="float:right">
+      <p class="price">₹35/sq.ft + maintenance</p>
+      <p>Available with or without furniture. Ideal for startups and growing teams.</p>
+      <ul class="requirements">
+        <li>Minimum area: 500 sq.ft</li>
+        <li>Lease term: 6 months minimum</li>
+        <li>Security deposit: 2 months rent</li>
+        <li>24/7 access and power backup</li>
+      </ul>
+      <button class="inquire-btn">Inquire Now</button>
+    </div>
+  </div>
+  <div class="container">
+    <div class="rental-card">
+    <form id="inquiryForm">
+  <input type="text" name="name" placeholder="Your Name" required /><br><br>
+  <input type="email" name="email" placeholder="Your Email" required /><br><br>
+  <textarea name="message" placeholder="Your Message" required></textarea><br><br>
+  <button type="submit" class="inquire-btn">Submit Inquiry</button>
+</form>
+  </div>
+  </div>
+<script>
+  const express = require('express');
+const mongoose = require('mongoose');
+const cors = require('cors');
+require('dotenv').config();
+
+const inquiryRoutes = require('./routes/inquiries');
+
+const app = express();
+const PORT = process.env.PORT || 5000;
+
+// Middleware
+app.use(cors());
+app.use(express.json());
+
+// Routes
+app.use('/api/inquiries', inquiryRoutes);
+
+// MongoDB Connection
+mongoose.connect(process.env.MONGO_URI, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true
+})
+.then(() => console.log('MongoDB connected'))
+.catch(err => console.error(err));
+
+app.listen(PORT, () => {
+  console.log(Server,running,on,port,$,{PORT});
+});
+const mongoose = require('mongoose');
+
+const InquirySchema = new mongoose.Schema({
+  name: String,
+  email: String,
+  message: String,
+  date: {
+    type: Date,
+    default: Date.now
+  }
+});
+
+module.exports = mongoose.model('Inquiry', InquirySchema);
+const express = require('express');
+const router = express.Router();
+const Inquiry = require('../models/Inquiry');
+
+// POST /api/inquiries
+router.post('/', async (req, res) => {
+  const { name, email, message } = req.body;
+
+  try {
+    const newInquiry = new Inquiry({ name, email, message });
+    await newInquiry.save();
+    res.status(201).json({ message: 'Inquiry submitted successfully' });
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to submit inquiry' });
+  }
+});
+
+module.exports = router;
+MONGO_URI=mongodb;//localhost:27017/shswift
+<!-- Add inside .rental-card -->
+
+  document.getElementById('inquiryForm').addEventListener('submit', async function (e) {
+    e.preventDefault();
+    const formData = new FormData(this);
+    const data = Object.fromEntries(formData.entries());
+
+    const response = await fetch('http://localhost:5000/api/inquiries', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    });
+
+    const result = await response.json();
+    alert(result.message || result.error);
+  });
+</script>
+</body>
